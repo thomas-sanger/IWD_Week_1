@@ -1,0 +1,21 @@
+body {
+  background-color: black;
+  color: white;
+  font-size: 24px;
+}
+
+.container {
+  width: 60%;
+  margin: 5% auto;
+  border: 5px solid white;
+}
+
+button,
+input {
+  font-size: 1.1em;
+  margin: 10px;
+}
+
+#clearBtn {
+  background-color: red;
+}
